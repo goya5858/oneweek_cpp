@@ -1,0 +1,13 @@
+.vscode/*
+atcoder/*
+ソース/*
+ヘッダ/*
+
+!atcoder/*.cpp
+!atcoder/*.h
+
+!ソース/*.cpp
+!ソース/*.h
+
+!ヘッダ/*.cpp
+!ヘッダ/*.h
